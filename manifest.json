@@ -1,0 +1,21 @@
+{
+  "manifest_version": 2,
+  "name": "Laugh Tracks",
+  "version": "1.0",
+  "description": "Play laugh tracks and boos over any content.",
+  "permissions": [
+    "activeTab",
+    "tabs"
+  ],
+  "background": {
+    "scripts": ["background.js"]
+  },
+  "browser_action": {
+    "default_icon": {
+      "48": "icons/laugh-48.png"
+    }
+  },
+  "icons": {
+    "48": "icons/laugh-48.png"
+  }
+}
