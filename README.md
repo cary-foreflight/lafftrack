@@ -31,4 +31,4 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 For support or queries, please open an issue in the GitHub repository.
 
 ## Acknowledgements
-- Icons used in this extension are provided by [Icon Provider]. Make sure to replace `[Icon Provider]` with the actual source of your icons.
+- Icons used in this extension are provided by https://www.istockphoto.com
