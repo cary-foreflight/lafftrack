@@ -32,3 +32,4 @@ For support or queries, please open an issue in the GitHub repository.
 
 ## Acknowledgements
 - Icons used in this extension are provided by https://www.istockphoto.com
+- All audios were made freely available by NoCopyrightSoundEffects
